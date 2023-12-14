@@ -19,10 +19,11 @@ bitwiseXOR(6, 23) ➞ 00010001
 
 Напишите три функции для вычисления побитового И, побитового ИЛИ и побитового исключающее ИЛИ двух чисел.
 
+Ссылка на задачу: [https://edabit.com/challenge/vvuAkYEAArrZvmp6X](https://edabit.com/challenge/vvuAkYEAArrZvmp6X)
+
 ### Тесты
 
-Тесты находяться в test.js
-Запускаются из консоли про помощи команды npm jest
+Тесты находятся в test.js
 
 ```javascript
 // Перввый тест
