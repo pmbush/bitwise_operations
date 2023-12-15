@@ -64,7 +64,7 @@ const bitwiseOR = function(n1, n2) {
     // Выполнение побитового OR и формирование результата
     const unionArray = array1.map(function(num, index) {
         return (num === '1' || array2[index] === '1') ? 1 : 0
-    })
+    });
 
     // Преобразование массива обратно в десятичное число и возврат результата
     return parseInt(unionArray.join(''), 2);
