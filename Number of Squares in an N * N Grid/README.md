@@ -18,6 +18,8 @@
 Исходное значение - целое положительное число.
 Квадратное пирамидальное число.
 
+Ссылка на задачу: [https://edabit.com/challenge/RGQXN4TG2CQoBAReQ](https://edabit.com/challenge/RGQXN4TG2CQoBAReQ)
+
 ### Тесты
 
 Тесты находятся в test.js
