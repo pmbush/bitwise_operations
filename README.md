@@ -4,3 +4,5 @@ https://edabit.com/challenge/QkuiL7XApt2RMQqTJ - /RegEx Exercise 1: Find the Tim
 https://edabit.com/challenge/nuXdWHAoHv9y38sn7 - /Drink Sorting
 https://edabit.com/challenge/vvuAkYEAArrZvmp6X - /Bitwise Operations
 https://edabit.com/challenge/hD3euqPHM82Cbr7R8 - /Largest Swap
+https://edabit.com/challenge/aNZzLBxQpidWBF26X - /Sort by String Length
+https://edabit.com/challenge/tYHkTdFrEmWfxpPKF - /Matchstick Houses

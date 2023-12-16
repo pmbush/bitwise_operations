@@ -25,6 +25,7 @@ sortDrinkByPrice(drinks) ➞ [{name: "lime", price: 10}, {name: "lemonade", pric
 
 Тесты находятся в test.js
 
+```javascript
 // Первый тест
 test('sortDrinkByPrice drinks1 = sorted1', () => {
     expect(sortDrinkByPrice(drinks1)).toStrictEqual(sorted1);
@@ -43,3 +44,4 @@ test('sortDrinkByPrice drinks1 = sorted1', () => {
 test('sortDrinkByByble drinks1 = sorted1', () => {
     expect(sortDrinkByByble(drinks2)).toStrictEqual(sorted2);
 });
+```
