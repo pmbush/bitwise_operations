@@ -6,3 +6,4 @@ https://edabit.com/challenge/vvuAkYEAArrZvmp6X - /Bitwise Operations
 https://edabit.com/challenge/hD3euqPHM82Cbr7R8 - /Largest Swap
 https://edabit.com/challenge/aNZzLBxQpidWBF26X - /Sort by String Length
 https://edabit.com/challenge/tYHkTdFrEmWfxpPKF - /Matchstick Houses
+https://edabit.com/challenge/hPWnaSckJke5FXNEH - /Is it Time for Milk and Cookies
